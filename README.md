@@ -42,8 +42,7 @@ Created a professional defect report for the identified issues.
 
 **Reported Defects**
 - DEF-001: Login page allows users to proceed with an invalid email format.
-- DEF-002: Unregistered email login redirects to signup page without displaying an error message.
-
+- 
 **Deliverable**
 - [Defect_Report.pdf](Defect_Report.pdf)
 
@@ -172,7 +171,7 @@ QA-Intern-Technical-Assignment/
 Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/hemadarini/Katomarans-Assesment-2.git)
 ```
 
 Navigate to the project directory
@@ -276,5 +275,5 @@ Below are the execution result screenshots captured from the test automation run
 
 # Author
 
-**Nithizh**  
+**HEMA**  
 *QA Intern Technical Assignment Submission*
